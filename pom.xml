@@ -5,6 +5,7 @@
 	<groupId>io.cjet.demoapp</groupId>
 	<artifactId>cjet-demo-spring-app1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>CJET Demo Spring App1</name>
 
 	<parent>
